@@ -13,5 +13,5 @@ spring:
     limitDeProduits: 4
 
 server:
-  port: 9001
+  port: 9002
 
